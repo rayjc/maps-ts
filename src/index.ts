@@ -1,1 +1,3 @@
-console.log("connected.")
+import { User } from './User';
+
+console.log(new User());
